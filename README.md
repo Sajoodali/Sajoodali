@@ -24,15 +24,6 @@ Beyond coding, I am passionate about learning new technologies and finding bette
 - **MongoDB** – Flexible NoSQL database  
 - **PostgreSQL** – Reliable relational database  
 
----
-
-## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-
----
-
 ## 📫 Connect with Me
 - 💼 [LinkedIn]([YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/sajood-ali-676b092a5/))  
   
